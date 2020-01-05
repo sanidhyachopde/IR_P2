@@ -1,0 +1,68 @@
+
+GetPostings
+monkey.
+Postings list: 9855
+GetPostings
+Geological
+Postings list: 1615 4066 6258 7355 7484 7541 8825 9551
+DaatAnd
+Geological monkey.
+Results : empty
+Number of documents in results: 0
+Number of comparisons: 8
+TFIDF
+Results : None
+DaatOr
+Geological monkey.
+Results : 1615 4066 6258 7355 7484 7541 8825 9551 9855
+Number of documents in results: 9
+Number of comparisons: 9
+TFIDF
+Results : 
+
+GetPostings
+work
+Postings list: 1061 1478 1615 1646 1807 2219 2385 3503 3572 4995 5000 5507 5808 5954 6196 6941 7484 7786 8866 9250 9428 9551 9849
+GetPostings
+studying
+Postings list: 1061 1478 1615 1646 1807 2219 2385 3503 3572 5507 5808 6196 6941 7484 8866 9428 9551 9849
+GetPostings
+history
+Postings list: 1061 1478 1615 1646 1807 2219 2385 3503 3572 5507 5808 6196 6941 7484 8866 9428 9551 9849
+DaatAnd
+work studying history
+Results : 1061 1478 1615 1646 1807 2219 2385 3503 3572 5507 5808 6196 6941 7484 8866 9428 9551 9849
+Number of documents in results: 18
+Number of comparisons: 41
+TFIDF
+Results : None
+DaatOr
+work studying history
+Results : 1061 1478 1615 1646 1807 2219 2385 3503 3572 4995 5000 5507 5808 5954 6196 6941 7484 7786 8866 9250 9428 9551 9849
+Number of documents in results: 23
+Number of comparisons: 46
+TFIDF
+Results : 
+
+GetPostings
+here
+Postings list: 1611 1637 1646 2239 2647 2794 3289 3337 3572 3711 3852 3962 4672 4694 4936 4995 5000 5009 5118 5342 5418 5422 5427 5602 5954 6229 6722 6758 7775 7786 8999 9102 9795 9855
+GetPostings
+conclusions
+Postings list: 1611 1637 2239 2647 2732 2794 3289 3337 3376 3503 3585 3852 3962 4638 4672 4817 4936 5009 5418 5422 5587 5602 6229 6722 6758 7775 8257 8999 9102 9238 9628 9795 9855
+GetPostings
+cannot
+Postings list: 1611 1646 2647 3337 3572 3962 4936 4995 5009 5118 5342 5422 6758 7775 7786 9102 9795 9855
+DaatAnd
+cannot here conclusionsResults : 1611 2647 3337 3962 4936 5009 5422 6758 7775 9102 9795 9855
+Number of documents in results: 12
+Number of comparisons: 73
+TFIDF
+Results : None
+DaatOr
+cannot here conclusionsResults : 1611 1637 1646 2239 2647 2732 2794 3289 3337 3376 3503 3572 3585 3711 3852 3962 4638 4672 4694 4817 4936 4995 5000 5009 5118 5342 5418 5422 5427 5587 5602 5954 6229 6722 6758 7775 7786 8257 8999 9102 9238 9628 9795 9855
+Number of documents in results: 44
+Number of comparisons: 78
+TFIDF
+Results : 
+
